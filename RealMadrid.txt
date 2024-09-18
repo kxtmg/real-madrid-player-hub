@@ -1,0 +1,23 @@
+Thibaut Cuortois	Goalkeeper	Belgium	36	2.00	96	66 	89	29	0	0	33	14	38	23	16
+Andriy Lunin	Goalkeeper	Ukraine	2	1.92	87	2.75 	74	23	0	0	31	8	32	15	11
+Daniel Carvajal	Defender	Spain	36	1.73	73	18 	85	30	1	3	83	51	85	83	84
+Eder Militao	Defender	Brazil	50	1.86	78	60 	82	24	1	2	79	48	86	73	83
+David Alaba	Defender	Austria	46	1.80	78	55 	84	30	2	3	87	63	74	85	83
+Jesus Vallejo Lazaro	Defender	Spain	8	1.84	79	3 	75	25	0	0	71	44	48	69	74
+Nacho Fernandez	Defender	Spain	42	1.80	76	7 	81	32	3	0	78	32	81	76	81
+Alvaro Odriozola	Defender	Spain	27	1.76	66	12 	79	26	0	0	75	48	78	76	77
+Antonio Rudiger	Defender	Germany	54	1.90	85	40 	83	29	0	0	80	40	71	72	84
+Ferland Mendy	Defender	France	35	1.80	73	40 	83	27	2	1	80	63	89	78	80
+Toni Kroos	Midfielder	Germany	45	1.83	76	20 	88	32	1	3	93	77	75	88	60
+Luka Modric	Midfielder	Croatia	45	1.72	66	10 	87	36	2	8	91	72	83	90	72
+Eduardo Camavinga	Midfielder	France	46	1.85	68	55 	78	19	2	1	82	62	81	83	79
+Federico Valverde	Midfielder	Uruguay	46	1.82	78	70 	83	24	0	1	85	69	86	82	76
+Lucas Vasquez	Midfielder	Spain	41	1.73	70	12 	81	31	3	0	79	72	91	79	72
+Aurelien Tchouameni	Midfielder	France	50	1.87	81	60 	79	22	0	0	84	67	86	80	78
+Daniel Ceballos	Midfielder	Spain	18	1.79	68	14 	77	26	0	0	80	65	75	83	68
+Eden Hazard	Forward	Belgium	23	1.75	74	12 	85	31	0	1	85	78	76	87	22
+Karim Benzema	Forward	France	46	1.85	81	30 	89	34	27	13	89	92	81	91	18
+Marco Asensio	Forward	Spain	42	1.82	76	40 	83	26	10	0	81	77	76	87	39
+Vinicius Oliveira	Forward	Brazil	52	1.76	73	100 	80	22	17	10	72	82	84	88	18
+Rodrygo Goes	Forward	Brazil	49	1.74	64	60 	79	21	4	4	75	77	81	82	32
+Mariano Mejia	Forward	D.R.	11	1.80	76	6 	75	29	1	1	66	75	75	76	34
